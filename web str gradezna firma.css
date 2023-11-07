@@ -1,0 +1,86 @@
+.navbar{
+    background-color: burlywood;
+    text-size-adjust: 22px;
+    font-size: 22px;
+    font-weight:600 ;
+    text-align: center;
+   
+    
+
+}
+.nav-link{
+    text-align: start;
+    text-size-adjust: 22px;
+    color: white;
+    font-size: 22px;
+    font-weight:600 ;
+}
+.navbar-nav{
+    text-align: center;
+}
+.tekst{
+    color:burlywood ;
+    font-size: 100px;
+    font-weight:600 ;
+  text-transform: uppercase;
+  text-overflow: ellipsis;
+  text-shadow: black 100%;
+ 
+}
+.teksst{
+    color: black;
+    font-size: 100px;
+    font-weight:600 ;
+  text-transform: uppercase;
+  text-overflow: ellipsis;
+  text-shadow: black 100%;
+}
+.about{
+    border-bottom: 2px solid burlywood ;
+    text-align: center;
+
+}
+.tekst2{
+    color: grey;
+    text-align: center;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+.card-title{
+    color:burlywood ;
+}
+.input-group-text{
+    background-color:burlywood ;
+    color: white;
+}
+.ne{
+    background-color: black;
+    color:burlywood ;
+    text-align: center;
+
+}
+.pagination{
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+}
+.btn{
+    color:burlywood ;!important
+   
+}
+.cities{
+    color:burlywood ;
+    text-align: center;
+    font-weight:2000px ;
+    
+}
+.cities{
+    font-size: xx-large;
+
+}
+.link{
+    color: burlywood;
+    text-decoration: none;
+}
