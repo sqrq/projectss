@@ -1,0 +1,211 @@
+.navbar{
+    background-color: aqua;
+}
+.daa{
+    font-size: 20px;
+font-weight: bold;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color:
+ black!important;
+}
+.daa:hover{
+    color: blue;
+}
+.tekst2{
+    font-size: 20px;
+font-weight: bold;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: blue !important;
+}
+.prebaraj{
+    background-color: blue;
+    color:azure !important;
+    font-size: 20px;
+font-weight: bold;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.teksst{
+    color: white;
+    font-size: 100px;
+    font-weight:600 ;
+  text-transform: uppercase;
+  text-overflow: ellipsis;
+  text-shadow: black 100%;
+}
+.teksstT{
+    color: black3;
+    font-size: 100px;
+    font-weight:600 ;
+  text-transform: uppercase;
+  text-overflow: ellipsis;
+  text-shadow: black 100%;
+}
+.about{
+    border-bottom: 3px solid aqua ;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blue !important;
+
+}
+.card-img{
+    width: auto;
+    height: 600px;
+    opacity: 0.5;
+   
+}
+.card{
+    margin-top: 20px;
+   
+    margin-left: 250px;
+    margin-right: 250px;
+
+}
+.card-title{
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:
+     black!important;
+}
+.card-text{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:
+    white!important;
+}
+.karti{
+ text-align: center;
+font-weight: bold;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color:
+ black!important;
+}
+.app{
+    margin-top: 150px;
+    border: dotted aqua 5px;
+}
+.tekst22{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blue !important;
+    border-bottom: 3px solid aqua ;
+    text-shadow: 2px 2px 5px red; 
+    text-align: center;
+}
+.tekst3{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aqua !important;
+    text-shadow: 2px 2px 3px blue; 
+}
+.kopce2{
+    border-radius: 50px;
+    text-align: center;
+    margin: auto ;
+    display: flex;
+    display: grid ;
+    background-color: blue;
+    color: aqua;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: black 10px;
+}
+   .cardd{
+    border: double aqua 5px;
+    text-align: center;
+    margin: auto ;
+    display: flex;
+    display: grid ;
+   }
+   .footer{
+    background-color: aqua;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:
+     black!important;
+     text-align: center;
+   }
+ .dadada{
+    margin-top: 200px;
+ }
+ .tekstdva{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blue !important;
+    border-bottom: 3px solid aqua ;
+    text-shadow: 2px 2px 5px red; 
+    text-align: center;
+ }
+.bilett{
+    border: 5px dotted aqua;
+background-color: orange;
+text-shadow: 2px 2px 5px red; 
+    
+    margin-top: 10px;
+}
+.redica{
+    margin-top: 100px;
+    margin-left: 20px;
+}
+.maps{
+   margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.button{
+    text-align: center;
+    margin: auto ;
+    display: flex;
+    display: grid ;
+ background-color:aqua ; 
+   width: 500px;
+   border: 3px blue solid;
+   color: blue;
+   
+   font-weight: bold;
+   font-size: 20px;
+}
+.lokacija{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: orange !important;
+    text-shadow: 2px 2px 3px blue; 
+    border-bottom: 3px solid aqua ;
+    text-align: center;
+}
+.about2{
+    border-bottom: 3px solid aqua ;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blue !important;
+}
+.kopce3{
+ 
+    text-align: center;
+    margin: auto ;
+    display: flex;
+    display: grid ;
+    background-color: red;
+    color: aqua;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: black 10px;
+}
+.tekst222{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: red !important;
+    } 
